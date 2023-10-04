@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "lem",
+      "email": "typicode",
+      "password": 1234
+    },
+    {
+      "id": 2,
+      "name": "abe",
+      "email": "typicode",
+      "password": 1234
+    },
+    {
+      "id": 3,
+      "name": "kebe",
+      "email": "typicode",
+      "password": 1234
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu918@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu918@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "0900631287",
+      "password": "2345",
+      "id": 6
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu920@gmail.com",
+      "password": "8765",
+      "id": 7
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu920@gmail.com",
+      "password": "8765",
+      "id": 8
+    },
+    {
+      "name": "melkamu",
+      "email": "zmelkamu919@gmail.com",
+      "password": "65423111",
+      "id": 9
+    },
+    {
+      "name": "melkamu",
+      "email": "zmelkamu919@gmail.com",
+      "password": "65423111",
+      "id": 10
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu@gmail.com",
+      "password": "43322",
+      "id": 11
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu@gmail.com",
+      "password": "43322",
+      "id": 12
+    },
+    {
+      "name": "bomm",
+      "email": "0900631287",
+      "password": "5453",
+      "id": 13
+    },
+    {
+      "name": "bomm",
+      "email": "0900631287",
+      "password": "09876543",
+      "id": 14
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 15
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 16
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 17
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 18
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 19
+    },
+    {
+      "name": "bomm",
+      "email": "zmelkamu919@gmail.com",
+      "password": "09876543",
+      "id": 20
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu920@gmail.com",
+      "password": "6543",
+      "id": 21
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu920@gmail.com",
+      "password": "6543",
+      "id": 22
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu920@gmail.com",
+      "password": "098765",
+      "id": 23
+    },
+    {
+      "name": "melkamu zinabu",
+      "email": "zmelkamu920@gmail.com",
+      "password": "098765",
+      "id": 24
+    }
+  ],
+  "resturaunt":[
+    {
+      "id":1,
+      "name":"bomm",
+      "contact":434756,
+      "address":"bole"
+    }
+  ]
+}
